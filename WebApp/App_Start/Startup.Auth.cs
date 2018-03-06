@@ -8,6 +8,9 @@ using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using WebApp.Models;
+using AppSecurity.DAL;
+using AppSecurity.BLL;
+using AppSecurity.Entities;
 
 namespace WebApp
 {

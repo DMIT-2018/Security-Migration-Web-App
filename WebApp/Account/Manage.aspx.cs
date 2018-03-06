@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
 using WebApp.Models;
+using AppSecurity.BLL;
 
 namespace WebApp.Account
 {

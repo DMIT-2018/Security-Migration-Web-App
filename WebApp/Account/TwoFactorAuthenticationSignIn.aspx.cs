@@ -8,6 +8,8 @@ using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using WebApp.Models;
+using AppSecurity.BLL;
+using AppSecurity.Entities;
 
 namespace WebApp.Account
 {
